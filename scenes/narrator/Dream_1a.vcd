@@ -1,0 +1,259 @@
+// Choreo version 1
+actor "narrator"
+{
+  channel "voice"
+  {
+    event speak "narration.Dream_1a_00"
+    {
+      time 0.023810 2.423810
+      param "narration.Dream_1a_00"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+    event speak "narration.Dream_1a_01"
+    {
+      time 2.452381 15.016689
+      param "narration.Dream_1a_01"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+    event speak "narration.Dream_1a_02"
+    {
+      time 15.023808 20.808117
+      param "narration.Dream_1a_02"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+    event speak "narration.Dream_1a_03"
+    {
+      time 20.785715 32.621113
+      param "narration.Dream_1a_03"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+    event speak "narration.Dream_1a_04"
+    {
+      time 32.619049 41.468323
+      param "narration.Dream_1a_04"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+    event speak "narration.Dream_1a_05"
+    {
+      time 41.476189 49.429611
+      param "narration.Dream_1a_05"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+    event speak "narration.Dream_1a_06"
+    {
+      time 49.428570 55.787754
+      param "narration.Dream_1a_06"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+    event speak "narration.Dream_1a_07"
+    {
+      time 55.809521 66.184891
+      param "narration.Dream_1a_07"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+    event speak "narration.Dream_1a_08"
+    {
+      time 66.190483 71.596901
+      param "narration.Dream_1a_08"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+    event speak "narration.Dream_1a_09"
+    {
+      time 71.595230 84.241692
+      param "narration.Dream_1a_09"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+    event speak "narration.Dream_1a_10"
+    {
+      time 84.214294 96.417336
+      param "narration.Dream_1a_10"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+    event speak "narration.Dream_1a_11"
+    {
+      time 96.428574 102.543541
+      param "narration.Dream_1a_11"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+    event speak "narration.Dream_1a_12"
+    {
+      time 102.523811 108.960838
+      param "narration.Dream_1a_12"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+    event speak "narration.Dream_1a_13"
+    {
+      time 108.952385 116.055557
+      param "narration.Dream_1a_13"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+    event speak "narration.Dream_1a_14"
+    {
+      time 116.071434 125.080139
+      param "narration.Dream_1a_14"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+    event speak "narration.Dream_1a_15"
+    {
+      time 125.095238 130.188736
+      param "narration.Dream_1a_15"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+    event speak "narration.Dream_1a_16"
+    {
+      time 130.166672 144.388550
+      param "narration.Dream_1a_16"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+    event speak "narration.Dream_1a_17"
+    {
+      time 144.404755 155.393097
+      param "narration.Dream_1a_17"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+    event speak "narration.Dream_1a_18"
+    {
+      time 155.404770 162.219696
+      param "narration.Dream_1a_18"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+    event speak "narration.Dream_1a_19"
+    {
+      time 162.214279 166.616394
+      param "narration.Dream_1a_19"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+    event speak "narration.Dream_1a_20"
+    {
+      time 166.595245 176.295319
+      param "narration.Dream_1a_20"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+    event speak "narration.Dream_1a_21"
+    {
+      time 176.246017 184.051804
+      param "narration.Dream_1a_21"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+    event speak "narration.Dream_1a_22"
+    {
+      time 184.063492 190.491379
+      param "narration.Dream_1a_22"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+    event speak "narration.Dream_1a_23"
+    {
+      time 190.510605 195.029221
+      param "narration.Dream_1a_23"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+    event speak "narration.Dream_1a_24"
+    {
+      time 195.039673 206.230392
+      param "narration.Dream_1a_24"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+    event speak "narration.Dream_1a_25"
+    {
+      time 206.261917 212.768204
+      param "narration.Dream_1a_25"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+    event speak "narration.Dream_1a_26"
+    {
+      time 212.761917 223.321945
+      param "narration.Dream_1a_26"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+    event speak "narration.Dream_1a_27"
+    {
+      time 223.333344 231.960968
+      param "narration.Dream_1a_27"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+    event speak "narration.Dream_1a_28"
+    {
+      time 231.928574 237.640976
+      param "narration.Dream_1a_28"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+    event speak "narration.Dream_1a_29"
+    {
+      time 237.642868 241.318695
+      param "narration.Dream_1a_29"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+  }
+}
+
+scalesettings
+{
+  "CChoreoView" "36"
+  "ExpressionTool" "100"
+  "GestureTool" "100"
+  "RampTool" "100"
+  "SceneRampTool" "100"
+}
+fps 60
+snap off
+ignorePhonemes off

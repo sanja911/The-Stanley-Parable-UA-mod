@@ -1,0 +1,83 @@
+// Choreo version 1
+actor "narrator"
+{
+  channel "voice"
+  {
+    event speak "narration.Boss_4_00"
+    {
+      time -0.000000 5.773922
+      param "narration.Boss_4_00"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+    event speak "narration.Boss_4_01"
+    {
+      time 5.773333 15.462790
+      param "narration.Boss_4_01"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+    event speak "narration.Boss_4_02"
+    {
+      time 15.459999 27.776552
+      param "narration.Boss_4_02"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+    event speak "narration.Boss_4_03"
+    {
+      time 27.786665 40.316914
+      param "narration.Boss_4_03"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+    event speak "narration.Boss_4_04"
+    {
+      time 40.319996 45.952332
+      param "narration.Boss_4_04"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+    event speak "narration.Boss_4_05"
+    {
+      time 45.946663 50.934303
+      param "narration.Boss_4_05"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+    event speak "narration.Boss_4_06"
+    {
+      time 50.939999 61.964535
+      param "narration.Boss_4_06"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+    event speak "narration.Boss_4_07"
+    {
+      time 61.973335 66.131634
+      param "narration.Boss_4_07"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+  }
+}
+
+scalesettings
+{
+  "CChoreoView" "100"
+  "RampTool" "100"
+  "ExpressionTool" "100"
+  "GestureTool" "100"
+  "SceneRampTool" "100"
+}
+fps 60
+snap off
+ignorePhonemes off

@@ -1,0 +1,18 @@
+"GameInfo"
+{
+    game        "The Stanley Parable UA Mod"
+    title       "The Stanley Parable UA Mod"
+    gamelogo    1
+    SupportsDX8     0
+    SupportsXbox360 1
+    FileSystem
+    {
+        SteamAppId 221910   // The Stanley Parable ID
+        ToolsAppId 211      // Portal 2 Hammer as they said the game based on Portal 2
+        SearchPaths
+        {
+            Game                |gameinfo_path|.  
+            Game                thestanleyparable
+        }
+    }
+}
