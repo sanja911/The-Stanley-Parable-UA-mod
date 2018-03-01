@@ -5,7 +5,7 @@ actor "narrator"
   {
     event speak "narration.WindowGag_2_00"
     {
-      time 0.000000 10.431882
+      time 0.000000 10.923764
       param "narration.WindowGag_2_00"
       fixedlength
       cctype "cc_master"
@@ -13,7 +13,7 @@ actor "narrator"
     }
     event speak "narration.WindowGag_2_01"
     {
-      time 10.426667 25.649117
+      time 10.918549 26.140999
       param "narration.WindowGag_2_01"
       fixedlength
       cctype "cc_master"
@@ -21,7 +21,7 @@ actor "narrator"
     }
     event speak "narration.WindowGag_2_02"
     {
-      time 25.660000 33.218910
+      time 26.151882 34.803900
       param "narration.WindowGag_2_02"
       fixedlength
       cctype "cc_master"
@@ -29,7 +29,7 @@ actor "narrator"
     }
     event speak "narration.WindowGag_2_03"
     {
-      time 33.213337 195.846954
+      time 34.798327 197.431944
       param "narration.WindowGag_2_03"
       fixedlength
       cctype "cc_master"

@@ -29,7 +29,7 @@ actor "narrator"
     }
     event speak "narration.SeriousRoom_1_03"
     {
-      time 25.160000 33.307323
+      time 25.160000 33.307324
       param "narration.SeriousRoom_1_03"
       fixedlength
       cctype "cc_master"
@@ -37,7 +37,7 @@ actor "narrator"
     }
     event speak "narration.SeriousRoom_1_04"
     {
-      time 33.313332 47.000839
+      time 33.313333 47.000840
       param "narration.SeriousRoom_1_04"
       fixedlength
       cctype "cc_master"
@@ -45,7 +45,7 @@ actor "narrator"
     }
     event speak "narration.SeriousRoom_1_05"
     {
-      time 47.006664 56.403263
+      time 47.006665 56.403264
       param "narration.SeriousRoom_1_05"
       fixedlength
       cctype "cc_master"
@@ -53,7 +53,7 @@ actor "narrator"
     }
     event speak "narration.SeriousRoom_1_06"
     {
-      time 56.400002 66.111610
+      time 56.400003 66.111613
       param "narration.SeriousRoom_1_06"
       fixedlength
       cctype "cc_master"
@@ -61,7 +61,7 @@ actor "narrator"
     }
     event speak "narration.SeriousRoom_1_07"
     {
-      time 66.113335 76.324677
+      time 66.113338 76.324680
       param "narration.SeriousRoom_1_07"
       fixedlength
       cctype "cc_master"

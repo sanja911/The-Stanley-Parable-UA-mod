@@ -5,7 +5,7 @@ actor "narrator"
   {
     event speak "narration.WindowGag_1_00"
     {
-      time 0.006666 16.940113
+      time 0.006666 17.254580
       param "narration.WindowGag_1_00"
       fixedlength
       cctype "cc_master"
@@ -13,7 +13,7 @@ actor "narrator"
     }
     event speak "narration.WindowGag_1_01"
     {
-      time 16.953333 30.238503
+      time 17.267800 31.124489
       param "narration.WindowGag_1_01"
       fixedlength
       cctype "cc_master"

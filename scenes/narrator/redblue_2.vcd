@@ -3,7 +3,7 @@ actor "narrator"
 {
   channel "voice"
   {
-    event speak "v"
+    event speak "narration.RedBlue_2_00"
     {
       time 0.006667 4.707120
       param "narration.RedBlue_2_00"

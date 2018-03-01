@@ -5,7 +5,7 @@ actor "narrator"
   {
     event speak "narration.Dream_1b_00"
     {
-      time 0.013333 8.408504
+      time 0.013333 8.931542
       param "narration.Dream_1b_00"
       fixedlength
       cctype "cc_master"
@@ -13,7 +13,7 @@ actor "narrator"
     }
     event speak "narration.Dream_1b_01"
     {
-      time 8.406667 18.339365
+      time 8.929705 18.131315
       param "narration.Dream_1b_01"
       fixedlength
       cctype "cc_master"
@@ -21,7 +21,7 @@ actor "narrator"
     }
     event speak "narration.Dream_1b_02"
     {
-      time 18.346664 19.738659
+      time 18.138614 20.530609
       param "narration.Dream_1b_02"
       fixedlength
       cctype "cc_master"

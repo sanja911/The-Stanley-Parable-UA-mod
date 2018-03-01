@@ -13,7 +13,7 @@ actor "narrator"
     }
     event speak "narration.Inc_0c_01"
     {
-      time 3.373333 6.358594
+      time 3.373333 6.924399
       param "narration.Inc_0c_01"
       fixedlength
       cctype "cc_master"
@@ -21,7 +21,7 @@ actor "narrator"
     }
     event speak "narration.Inc_0c_02"
     {
-      time 6.359999 16.612335
+      time 6.925804 18.339432
       param "narration.Inc_0c_02"
       fixedlength
       cctype "cc_master"
@@ -29,7 +29,7 @@ actor "narrator"
     }
     event speak "narration.Inc_0c_03"
     {
-      time 16.613335 25.536465
+      time 18.340432 27.263562
       param "narration.Inc_0c_03"
       fixedlength
       cctype "cc_master"
@@ -37,7 +37,7 @@ actor "narrator"
     }
     event speak "narration.Inc_0c_04"
     {
-      time 25.546667 30.231588
+      time 27.273764 31.961769
       param "narration.Inc_0c_04"
       fixedlength
       cctype "cc_master"
@@ -45,7 +45,7 @@ actor "narrator"
     }
     event speak "narration.Inc_0c_05"
     {
-      time 30.233335 38.350227
+      time 31.963516 40.080408
       param "narration.Inc_0c_05"
       fixedlength
       cctype "cc_master"
@@ -53,7 +53,7 @@ actor "narrator"
     }
     event speak "narration.Inc_0c_06"
     {
-      time 38.353336 48.627464
+      time 40.083517 50.911136
       param "narration.Inc_0c_06"
       fixedlength
       cctype "cc_master"
@@ -61,7 +61,7 @@ actor "narrator"
     }
     event speak "narration.Inc_0c_07"
     {
-      time 48.640007 55.602001
+      time 50.923679 59.488010
       param "narration.Inc_0c_07"
       fixedlength
       cctype "cc_master"
@@ -69,7 +69,7 @@ actor "narrator"
     }
     event speak "narration.Inc_0c_08"
     {
-      time 55.606667 65.085442
+      time 59.492676 69.730159
       param "narration.Inc_0c_08"
       fixedlength
       cctype "cc_master"
@@ -77,7 +77,7 @@ actor "narrator"
     }
     event speak "narration.Inc_0c_09"
     {
-      time 65.086670 76.570137
+      time 69.731387 82.895809
       param "narration.Inc_0c_09"
       fixedlength
       cctype "cc_master"

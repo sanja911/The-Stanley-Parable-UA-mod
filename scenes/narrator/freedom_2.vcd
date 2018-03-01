@@ -61,7 +61,7 @@ actor "narrator"
     }
     event speak "narration.Freedom_2_07"
     {
-      time 56.086670 62.841137
+      time 56.086670 63.072226
       param "narration.Freedom_2_07"
       fixedlength
       cctype "cc_master"
@@ -69,7 +69,7 @@ actor "narrator"
     }
     event speak "narration.Freedom_2_08"
     {
-      time 62.846668 65.489731
+      time 63.077757 65.884696
       param "narration.Freedom_2_08"
       fixedlength
       cctype "cc_master"

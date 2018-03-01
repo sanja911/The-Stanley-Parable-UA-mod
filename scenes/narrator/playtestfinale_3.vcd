@@ -13,7 +13,7 @@ actor "narrator"
     }
     event speak "narration.PlaytestFinale_3_01"
     {
-      time 2.146667 9.726236
+      time 2.146667 10.053969
       param "narration.PlaytestFinale_3_01"
       fixedlength
       cctype "cc_master"
@@ -21,7 +21,7 @@ actor "narrator"
     }
     event speak "narration.PlaytestFinale_3_02"
     {
-      time 9.726668 15.518370
+      time 10.054401 16.211952
       param "narration.PlaytestFinale_3_02"
       fixedlength
       cctype "cc_master"
@@ -29,7 +29,7 @@ actor "narrator"
     }
     event speak "narration.PlaytestFinale_3_03"
     {
-      time 15.520000 25.743605
+      time 16.213582 26.437187
       param "narration.PlaytestFinale_3_03"
       fixedlength
       cctype "cc_master"
@@ -37,7 +37,7 @@ actor "narrator"
     }
     event speak "narration.PlaytestFinale_3_04"
     {
-      time 25.753334 29.580885
+      time 26.446916 30.415419
       param "narration.PlaytestFinale_3_04"
       fixedlength
       cctype "cc_master"
@@ -45,7 +45,7 @@ actor "narrator"
     }
     event speak "narration.PlaytestFinale_3_05"
     {
-      time 29.586668 38.123131
+      time 30.421202 39.160114
       param "narration.PlaytestFinale_3_05"
       fixedlength
       cctype "cc_master"
@@ -53,7 +53,7 @@ actor "narrator"
     }
     event speak "narration.PlaytestFinale_3_06"
     {
-      time 38.126667 43.011837
+      time 39.163650 44.048820
       param "narration.PlaytestFinale_3_06"
       fixedlength
       cctype "cc_master"
@@ -61,7 +61,7 @@ actor "narrator"
     }
     event speak "narration.PlaytestFinale_3_07"
     {
-      time 43.006668 44.240524
+      time 44.043651 45.702631
       param "narration.PlaytestFinale_3_07"
       fixedlength
       cctype "cc_master"

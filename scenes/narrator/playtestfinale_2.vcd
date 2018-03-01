@@ -13,7 +13,7 @@ actor "narrator"
     }
     event speak "narration.PlaytestFinale_2_01"
     {
-      time 6.400001 13.152201
+      time 6.400001 13.170568
       param "narration.PlaytestFinale_2_01"
       fixedlength
       cctype "cc_master"

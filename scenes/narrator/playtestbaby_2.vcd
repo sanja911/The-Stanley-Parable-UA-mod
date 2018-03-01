@@ -21,7 +21,7 @@ actor "narrator"
     }
     event speak "narration.PlaytestBaby_2_02"
     {
-      time 14.273335 22.757710
+      time 14.273335 22.757711
       param "narration.PlaytestBaby_2_02"
       fixedlength
       cctype "cc_master"
@@ -29,7 +29,7 @@ actor "narrator"
     }
     event speak "narration.PlaytestBaby_2_03"
     {
-      time 22.760000 31.266235
+      time 22.760001 31.266237
       param "narration.PlaytestBaby_2_03"
       fixedlength
       cctype "cc_master"
@@ -37,7 +37,7 @@ actor "narrator"
     }
     event speak "narration.PlaytestBaby_2_04"
     {
-      time 31.266668 38.417168
+      time 31.266670 38.417170
       param "narration.PlaytestBaby_2_04"
       fixedlength
       cctype "cc_master"

@@ -21,7 +21,7 @@ actor "narrator"
     }
     event speak "narration.Monitor_4_02"
     {
-      time 13.533334 19.087936
+      time 13.533334 19.673447
       param "narration.Monitor_4_02"
       fixedlength
       cctype "cc_master"

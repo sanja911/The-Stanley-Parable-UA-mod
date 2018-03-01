@@ -5,7 +5,7 @@ actor "narrator"
   {
     event speak "narration.Escape_Hall_2_00"
     {
-      time 0.000000 7.360023
+      time 0.000000 7.736508
       param "narration.Escape_Hall_2_00"
       fixedlength
       cctype "cc_master"

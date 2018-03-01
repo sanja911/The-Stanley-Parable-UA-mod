@@ -5,7 +5,7 @@ actor "narrator"
   {
     event speak "narration.Lounge_1d_00"
     {
-      time -0.000000 6.210589
+      time 0.000000 6.731769
       param "narration.Lounge_1d_00"
       fixedlength
       cctype "cc_master"
@@ -13,7 +13,7 @@ actor "narrator"
     }
     event speak "narration.Lounge_1d_01"
     {
-      time 6.206667 12.806667
+      time 6.727847 14.871090
       param "narration.Lounge_1d_01"
       fixedlength
       cctype "cc_master"
@@ -21,7 +21,7 @@ actor "narrator"
     }
     event speak "narration.Lounge_1d_02"
     {
-      time 12.806667 17.529524
+      time 14.871090 19.731498
       param "narration.Lounge_1d_02"
       fixedlength
       cctype "cc_master"

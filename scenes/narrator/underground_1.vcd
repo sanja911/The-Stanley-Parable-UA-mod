@@ -5,7 +5,7 @@ actor "narrator"
   {
     event speak "narration.Underground_1_00"
     {
-      time 0.006666 4.965986
+      time 0.006666 5.534784
       param "narration.Underground_1_00"
       fixedlength
       cctype "cc_master"
@@ -13,7 +13,7 @@ actor "narrator"
     }
     event speak "narration.Underground_1_01"
     {
-      time 4.966667 13.096689
+      time 5.535465 14.182857
       param "narration.Underground_1_01"
       fixedlength
       cctype "cc_master"
@@ -21,7 +21,7 @@ actor "narrator"
     }
     event speak "narration.Underground_1_02"
     {
-      time 13.100000 17.842518
+      time 14.186168 18.928686
       param "narration.Underground_1_02"
       fixedlength
       cctype "cc_master"
@@ -29,7 +29,7 @@ actor "narrator"
     }
     event speak "narration.Underground_1_03"
     {
-      time 17.846666 21.152857
+      time 18.932834 22.502086
       param "narration.Underground_1_03"
       fixedlength
       cctype "cc_master"

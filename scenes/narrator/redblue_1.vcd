@@ -5,7 +5,7 @@ actor "narrator"
   {
     event speak "narration.RedBlue_1_00"
     {
-      time 0.006667 9.230885
+      time 0.006667 10.265669
       param "narration.RedBlue_1_00"
       fixedlength
       cctype "cc_master"
@@ -13,7 +13,7 @@ actor "narrator"
     }
     event speak "narration.RedBlue_1_01"
     {
-      time 9.233335 16.366735
+      time 10.268119 17.845194
       param "narration.RedBlue_1_01"
       fixedlength
       cctype "cc_master"
@@ -21,7 +21,7 @@ actor "narrator"
     }
     event speak "narration.RedBlue_1_02"
     {
-      time 16.373333 21.612698
+      time 17.851792 23.592404
       param "narration.RedBlue_1_02"
       fixedlength
       cctype "cc_master"

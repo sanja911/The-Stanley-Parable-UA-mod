@@ -21,7 +21,7 @@ actor "narrator"
     }
     event speak "narration.IncRight_3_02"
     {
-      time 10.466666 18.455442
+      time 10.466666 19.899296
       param "narration.IncRight_3_02"
       fixedlength
       cctype "cc_master"
@@ -29,7 +29,7 @@ actor "narrator"
     }
     event speak "narration.IncRight_3_03"
     {
-      time 18.460001 26.246532
+      time 19.903855 28.565442
       param "narration.IncRight_3_03"
       fixedlength
       cctype "cc_master"
@@ -37,7 +37,7 @@ actor "narrator"
     }
     event speak "narration.IncRight_3_04"
     {
-      time 26.246668 33.156803
+      time 28.565578 36.851270
       param "narration.IncRight_3_04"
       fixedlength
       cctype "cc_master"
@@ -45,7 +45,7 @@ actor "narrator"
     }
     event speak "narration.IncRight_3_05"
     {
-      time 33.166672 41.323997
+      time 36.861139 45.018464
       param "narration.IncRight_3_05"
       fixedlength
       cctype "cc_master"
@@ -53,7 +53,7 @@ actor "narrator"
     }
     event speak "narration.IncRight_3_06"
     {
-      time 41.339996 53.053513
+      time 45.034463 57.336526
       param "narration.IncRight_3_06"
       fixedlength
       cctype "cc_master"
@@ -61,7 +61,7 @@ actor "narrator"
     }
     event speak "narration.IncRight_3_07"
     {
-      time 53.060005 59.245403
+      time 57.343018 63.528416
       param "narration.IncRight_3_07"
       fixedlength
       cctype "cc_master"

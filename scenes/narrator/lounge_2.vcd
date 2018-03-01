@@ -5,7 +5,7 @@ actor "narrator"
   {
     event speak "narration.Lounge_2_00"
     {
-      time 0.000000 15.349206
+      time 0.000000 15.460091
       param "narration.Lounge_2_00"
       fixedlength
       cctype "cc_master"

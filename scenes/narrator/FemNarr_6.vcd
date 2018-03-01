@@ -5,7 +5,7 @@ actor "narrator"
   {
     event speak "narration.FemNarr_6_00"
     {
-      time 0.006667 7.029864
+      time 0.006667 6.948935
       param "narration.FemNarr_6_00"
       fixedlength
       cctype "cc_master"
@@ -13,7 +13,7 @@ actor "narrator"
     }
     event speak "narration.FemNarr_6_01"
     {
-      time 7.033333 10.521451
+      time 6.952404 11.440522
       param "narration.FemNarr_6_01"
       fixedlength
       cctype "cc_master"
@@ -21,7 +21,7 @@ actor "narrator"
     }
     event speak "narration.FemNarr_6_02"
     {
-      time 10.520000 17.076553
+      time 11.439071 17.995624
       param "narration.FemNarr_6_02"
       fixedlength
       cctype "cc_master"
@@ -29,7 +29,7 @@ actor "narrator"
     }
     event speak "narration.FemNarr_6_03"
     {
-      time 17.093332 22.869364
+      time 18.012403 23.788435
       param "narration.FemNarr_6_03"
       fixedlength
       cctype "cc_master"

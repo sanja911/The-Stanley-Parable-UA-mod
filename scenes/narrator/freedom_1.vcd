@@ -13,7 +13,7 @@ actor "narrator"
     }
     event speak "narration.Freedom_1_01"
     {
-      time 5.233333 7.138027
+      time 5.233333 6.340612
       param "narration.Freedom_1_01"
       fixedlength
       cctype "cc_master"

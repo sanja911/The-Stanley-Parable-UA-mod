@@ -5,7 +5,7 @@ actor "narrator"
   {
     event speak "narration.FemNarr_2_00"
     {
-      time 0.006666 7.343401
+      time 0.006666 7.614353
       param "narration.FemNarr_2_00"
       fixedlength
       cctype "cc_master"
@@ -13,7 +13,7 @@ actor "narrator"
     }
     event speak "narration.FemNarr_2_01"
     {
-      time 7.340000 10.760136
+      time 7.610952 11.031088
       param "narration.FemNarr_2_01"
       fixedlength
       cctype "cc_master"

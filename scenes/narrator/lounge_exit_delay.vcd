@@ -5,7 +5,7 @@ actor "narrator"
   {
     event speak "narration.Lounge_exit_delay_00"
     {
-      time 0.013333 6.288049
+      time 0.013333 8.968753
       param "narration.Lounge_exit_delay_00"
       fixedlength
       cctype "cc_master"

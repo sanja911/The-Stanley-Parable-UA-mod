@@ -5,7 +5,7 @@ actor "narrator"
   {
     event speak "narration.PlaytestFeedback4_00"
     {
-      time 0.013333 4.787483
+      time 0.013333 5.362743
       param "narration.PlaytestFeedback4_00"
       fixedlength
       cctype "cc_master"
@@ -13,7 +13,7 @@ actor "narrator"
     }
     event speak "narration.PlaytestFeedback4_01"
     {
-      time 4.793333 15.957188
+      time 5.368593 17.736393
       param "narration.PlaytestFeedback4_01"
       fixedlength
       cctype "cc_master"

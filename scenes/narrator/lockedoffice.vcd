@@ -13,7 +13,7 @@ actor "narrator"
     }
     event speak "narration.LockedOffice_01"
     {
-      time 3.226666 13.755487
+      time 3.226666 14.594920
       param "narration.LockedOffice_01"
       fixedlength
       cctype "cc_master"
@@ -21,7 +21,7 @@ actor "narrator"
     }
     event speak "narration.LockedOffice_02"
     {
-      time 13.753332 25.071812
+      time 14.592765 25.911245
       param "narration.LockedOffice_02"
       fixedlength
       cctype "cc_master"
@@ -29,7 +29,7 @@ actor "narrator"
     }
     event speak "narration.LockedOffice_03"
     {
-      time 25.073334 33.298981
+      time 25.912767 34.138414
       param "narration.LockedOffice_03"
       fixedlength
       cctype "cc_master"
@@ -37,7 +37,7 @@ actor "narrator"
     }
     event speak "narration.LockedOffice_04"
     {
-      time 33.299999 43.730114
+      time 34.139432 44.569547
       param "narration.LockedOffice_04"
       fixedlength
       cctype "cc_master"
@@ -45,7 +45,7 @@ actor "narrator"
     }
     event speak "narration.LockedOffice_05"
     {
-      time 43.726669 57.776035
+      time 44.566102 58.615468
       param "narration.LockedOffice_05"
       fixedlength
       cctype "cc_master"

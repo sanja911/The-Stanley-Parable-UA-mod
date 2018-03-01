@@ -5,7 +5,7 @@ actor "narrator"
   {
     event speak "narration.Dream_2_00"
     {
-      time 0.006667 3.358753
+      time 0.006667 5.358753
       param "narration.Dream_2_00"
       fixedlength
       cctype "cc_master"
@@ -13,7 +13,7 @@ actor "narrator"
     }
     event speak "narration.Dream_2_01"
     {
-      time 3.366667 12.238503
+      time 5.366667 13.519252
       param "narration.Dream_2_01"
       fixedlength
       cctype "cc_master"
@@ -21,7 +21,7 @@ actor "narrator"
     }
     event speak "narration.Dream_2_02"
     {
-      time 12.253332 23.684103
+      time 13.534081 25.268163
       param "narration.Dream_2_02"
       fixedlength
       cctype "cc_master"
@@ -29,7 +29,7 @@ actor "narrator"
     }
     event speak "narration.Dream_2_03"
     {
-      time 23.693333 31.443310
+      time 25.277393 33.193742
       param "narration.Dream_2_03"
       fixedlength
       cctype "cc_master"
@@ -37,7 +37,7 @@ actor "narrator"
     }
     event speak "narration.Dream_2_04"
     {
-      time 31.440002 37.508369
+      time 33.190434 39.258801
       param "narration.Dream_2_04"
       fixedlength
       cctype "cc_master"
@@ -45,7 +45,7 @@ actor "narrator"
     }
     event speak "narration.Dream_2_05"
     {
-      time 37.506672 42.161526
+      time 39.257104 43.911958
       param "narration.Dream_2_05"
       fixedlength
       cctype "cc_master"
@@ -53,7 +53,7 @@ actor "narrator"
     }
     event speak "narration.Dream_2_06"
     {
-      time 42.166668 49.087234
+      time 43.917100 51.837666
       param "narration.Dream_2_06"
       fixedlength
       cctype "cc_master"
@@ -61,7 +61,7 @@ actor "narrator"
     }
     event speak "narration.Dream_2_07"
     {
-      time 49.100002 59.775284
+      time 51.850434 62.630683
       param "narration.Dream_2_07"
       fixedlength
       cctype "cc_master"
@@ -69,7 +69,7 @@ actor "narrator"
     }
     event speak "narration.Dream_2_08"
     {
-      time 59.773335 67.084625
+      time 62.628734 70.260027
       param "narration.Dream_2_08"
       fixedlength
       cctype "cc_master"
@@ -77,7 +77,7 @@ actor "narrator"
     }
     event speak "narration.Dream_2_09"
     {
-      time 67.093338 73.990326
+      time 70.268740 77.165728
       param "narration.Dream_2_09"
       fixedlength
       cctype "cc_master"
@@ -85,7 +85,7 @@ actor "narrator"
     }
     event speak "narration.Dream_2_10"
     {
-      time 73.993340 76.098785
+      time 77.168742 79.828243
       param "narration.Dream_2_10"
       fixedlength
       cctype "cc_master"

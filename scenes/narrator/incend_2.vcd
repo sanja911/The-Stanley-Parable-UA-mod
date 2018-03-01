@@ -29,7 +29,7 @@ actor "narrator"
     }
     event speak "narration.IncEnd_2_03"
     {
-      time 18.673336 27.300480
+      time 18.673336 27.884198
       param "narration.IncEnd_2_03"
       fixedlength
       cctype "cc_master"
@@ -37,7 +37,7 @@ actor "narrator"
     }
     event speak "narration.IncEnd_2_04"
     {
-      time 27.313334 38.506485
+      time 27.897052 40.951066
       param "narration.IncEnd_2_04"
       fixedlength
       cctype "cc_master"
@@ -45,7 +45,7 @@ actor "narrator"
     }
     event speak "narration.IncEnd_2_05"
     {
-      time 38.519997 49.049522
+      time 40.964578 51.494103
       param "narration.IncEnd_2_05"
       fixedlength
       cctype "cc_master"
@@ -53,7 +53,7 @@ actor "narrator"
     }
     event speak "narration.IncEnd_2_06"
     {
-      time 49.053337 55.822315
+      time 51.497918 58.266896
       param "narration.IncEnd_2_06"
       fixedlength
       cctype "cc_master"
@@ -61,7 +61,7 @@ actor "narrator"
     }
     event speak "narration.IncEnd_2_07"
     {
-      time 55.826668 68.457687
+      time 58.271249 70.902268
       param "narration.IncEnd_2_07"
       fixedlength
       cctype "cc_master"
@@ -69,7 +69,7 @@ actor "narrator"
     }
     event speak "narration.IncEnd_2_08"
     {
-      time 68.466667 77.735306
+      time 70.911248 80.179887
       param "narration.IncEnd_2_08"
       fixedlength
       cctype "cc_master"

@@ -13,7 +13,7 @@ actor "narrator"
     }
     event speak "narration.Playtest_1_01"
     {
-      time 2.426667 11.926395
+      time 2.426667 12.738118
       param "narration.Playtest_1_01"
       fixedlength
       cctype "cc_master"
@@ -21,7 +21,7 @@ actor "narrator"
     }
     event speak "narration.Playtest_1_02"
     {
-      time 11.933334 20.111565
+      time 12.745057 23.359637
       param "narration.Playtest_1_02"
       fixedlength
       cctype "cc_master"
@@ -29,7 +29,7 @@ actor "narrator"
     }
     event speak "narration.Playtest_1_03"
     {
-      time 20.120001 31.240410
+      time 23.368073 34.488482
       param "narration.Playtest_1_03"
       fixedlength
       cctype "cc_master"
@@ -37,7 +37,7 @@ actor "narrator"
     }
     event speak "narration.Playtest_1_04"
     {
-      time 31.246668 39.200500
+      time 34.494740 42.577552
       param "narration.Playtest_1_04"
       fixedlength
       cctype "cc_master"
@@ -45,7 +45,7 @@ actor "narrator"
     }
     event speak "narration.Playtest_1_05"
     {
-      time 39.206665 43.819408
+      time 42.583717 48.705576
       param "narration.Playtest_1_05"
       fixedlength
       cctype "cc_master"

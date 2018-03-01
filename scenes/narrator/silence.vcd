@@ -5,7 +5,7 @@ actor "narrator"
   {
     event speak "narration.silence"
     {
-      time 0.000000 2.244263
+      time 0.000000 5.000000
       param "narration.silence"
       fixedlength
       cctype "cc_master"

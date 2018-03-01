@@ -13,7 +13,7 @@ actor "narrator"
     }
     event speak "narration.SeriousRoom_3_01"
     {
-      time 8.620000 19.396824
+      time 8.620000 19.396825
       param "narration.SeriousRoom_3_01"
       fixedlength
       cctype "cc_master"

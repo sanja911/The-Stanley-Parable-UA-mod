@@ -5,7 +5,7 @@ actor "narrator"
   {
     event speak "narration.Zen1_00"
     {
-      time 0.013333 2.784739
+      time 0.013333 2.913650
       param "narration.Zen1_00"
       fixedlength
       cctype "cc_master"
@@ -13,7 +13,7 @@ actor "narrator"
     }
     event speak "narration.Zen1_01"
     {
-      time 2.780001 15.055874
+      time 2.908912 15.334286
       param "narration.Zen1_01"
       fixedlength
       cctype "cc_master"
@@ -21,7 +21,7 @@ actor "narrator"
     }
     event speak "narration.Zen1_02"
     {
-      time 15.060000 26.347733
+      time 15.338412 26.626145
       param "narration.Zen1_02"
       fixedlength
       cctype "cc_master"
@@ -29,7 +29,7 @@ actor "narrator"
     }
     event speak "narration.Zen1_03"
     {
-      time 26.353334 31.214333
+      time 26.631746 31.492745
       param "narration.Zen1_03"
       fixedlength
       cctype "cc_master"

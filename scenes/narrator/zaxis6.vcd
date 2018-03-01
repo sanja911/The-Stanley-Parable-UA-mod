@@ -5,7 +5,7 @@ actor "narrator"
   {
     event speak "narration.Zaxis6_00"
     {
-      time 0.006666 8.208254
+      time 0.006666 9.663151
       param "narration.Zaxis6_00"
       fixedlength
       cctype "cc_master"

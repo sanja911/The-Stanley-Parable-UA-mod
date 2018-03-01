@@ -5,7 +5,7 @@ actor "narrator"
   {
     event speak "narration.Idle2_00"
     {
-      time 0.006666 7.480408
+      time 0.006666 7.885215
       param "narration.Idle2_00"
       fixedlength
       cctype "cc_master"
@@ -13,7 +13,7 @@ actor "narrator"
     }
     event speak "narration.Idle2_01"
     {
-      time 7.473335 17.382223
+      time 7.878142 18.561566
       param "narration.Idle2_01"
       fixedlength
       cctype "cc_master"
