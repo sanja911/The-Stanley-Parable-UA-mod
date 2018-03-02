@@ -5,7 +5,7 @@ actor "narrator"
   {
     event speak "narration.CargoLift_1_00"
     {
-      time 0.000000 6.891769
+      time 0.000000 6.709048
       param "narration.CargoLift_1_00"
       fixedlength
       cctype "cc_master"

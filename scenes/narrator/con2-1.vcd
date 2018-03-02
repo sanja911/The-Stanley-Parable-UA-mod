@@ -13,7 +13,7 @@ actor "narrator"
     }
     event speak "narration.con2-1_01"
     {
-      time 3.153333 12.056032
+      time 3.153333 11.647097
       param "narration.con2-1_01"
       fixedlength
       cctype "cc_master"
@@ -21,7 +21,7 @@ actor "narrator"
     }
     event speak "narration.con2-1_02"
     {
-      time 12.053333 22.729071
+      time 11.644398 21.320136
       param "narration.con2-1_02"
       fixedlength
       cctype "cc_master"
@@ -29,7 +29,7 @@ actor "narrator"
     }
     event speak "narration.con2-1_03"
     {
-      time 22.726667 32.684196
+      time 21.317732 30.442222
       param "narration.con2-1_03"
       fixedlength
       cctype "cc_master"
@@ -37,7 +37,7 @@ actor "narrator"
     }
     event speak "narration.con2-1_04"
     {
-      time 32.700001 38.044106
+      time 30.458027 36.802132
       param "narration.con2-1_04"
       fixedlength
       cctype "cc_master"

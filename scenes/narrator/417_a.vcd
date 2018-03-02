@@ -5,7 +5,7 @@ actor "narrator"
   {
     event speak "narration.417_a_00"
     {
-      time 0.006666 11.081519
+      time 0.006666 11.608457
       param "narration.417_a_00"
       fixedlength
       cctype "cc_master"
@@ -13,7 +13,7 @@ actor "narrator"
     }
     event speak "narration.417_a_01"
     {
-      time 11.073333 20.568798
+      time 11.600271 22.095736
       param "narration.417_a_01"
       fixedlength
       cctype "cc_master"
@@ -21,7 +21,7 @@ actor "narrator"
     }
     event speak "narration.417_a_02"
     {
-      time 20.573332 31.788387
+      time 22.100270 33.940633
       param "narration.417_a_02"
       fixedlength
       cctype "cc_master"
@@ -29,7 +29,7 @@ actor "narrator"
     }
     event speak "narration.417_a_03"
     {
-      time 31.793335 34.179775
+      time 33.945581 38.332021
       param "narration.417_a_03"
       fixedlength
       cctype "cc_master"

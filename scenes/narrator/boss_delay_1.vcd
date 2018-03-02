@@ -13,7 +13,7 @@ actor "narrator"
     }
     event speak "narration.Boss_delay_1_01"
     {
-      time 3.020000 12.641701
+      time 3.020000 12.306757
       param "narration.Boss_delay_1_01"
       fixedlength
       cctype "cc_master"

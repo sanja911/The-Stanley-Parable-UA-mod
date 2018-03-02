@@ -5,7 +5,7 @@ actor "narrator"
   {
     event speak "narration.choicepsa_1_00"
     {
-      time 0.000000 8.400000
+      time 0.000000 8.918231
       param "narration.choicepsa_1_00"
       fixedlength
       cctype "cc_master"
@@ -13,7 +13,7 @@ actor "narrator"
     }
     event speak "narration.choicepsa_1_01"
     {
-      time 8.400000 14.400000
+      time 8.918231 14.918231
       param "narration.choicepsa_1_01"
       fixedlength
       cctype "cc_master"
@@ -21,7 +21,7 @@ actor "narrator"
     }
     event speak "narration.choicepsa_1_02"
     {
-      time 14.400000 27.000000
+      time 14.918231 27.628118
       param "narration.choicepsa_1_02"
       fixedlength
       cctype "cc_master"
@@ -29,7 +29,7 @@ actor "narrator"
     }
     event speak "narration.choicepsa_1_03"
     {
-      time 27.000000 28.799999
+      time 27.628118 29.428117
       param "narration.choicepsa_1_03"
       fixedlength
       cctype "cc_master"
@@ -37,7 +37,7 @@ actor "narrator"
     }
     event speak "narration.choicepsa_1_04"
     {
-      time 28.799999 38.199997
+      time 29.428117 39.105192
       param "narration.choicepsa_1_04"
       fixedlength
       cctype "cc_master"
@@ -45,7 +45,7 @@ actor "narrator"
     }
     event speak "narration.choicepsa_1_05"
     {
-      time 38.200001 44.600002
+      time 39.105196 45.591114
       param "narration.choicepsa_1_05"
       fixedlength
       cctype "cc_master"
@@ -53,7 +53,7 @@ actor "narrator"
     }
     event speak "narration.choicepsa_1_06"
     {
-      time 44.599998 59.424511
+      time 45.591110 59.804670
       param "narration.choicepsa_1_06"
       fixedlength
       cctype "cc_master"

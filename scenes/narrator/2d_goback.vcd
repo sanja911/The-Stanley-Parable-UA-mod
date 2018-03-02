@@ -5,7 +5,7 @@ actor "narrator"
   {
     event speak "narration.2d_goback_00"
     {
-      time 0.000000 4.052472
+      time 0.000000 4.280159
       param "narration.2d_goback_00"
       fixedlength
       cctype "cc_master"

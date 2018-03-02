@@ -5,7 +5,7 @@ actor "narrator"
   {
     event speak "narration.3b_perhapsyoucan_00"
     {
-      time 0.006667 5.409932
+      time 0.006667 5.543266
       param "narration.3b_perhapsyoucan_00"
       fixedlength
       cctype "cc_master"

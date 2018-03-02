@@ -5,7 +5,7 @@ actor "narrator"
   {
     event speak "narration.Baby4_00"
     {
-      time 0.006667 10.966462
+      time 0.006667 10.978753
       param "narration.Baby4_00"
       fixedlength
       cctype "cc_master"
@@ -13,7 +13,7 @@ actor "narrator"
     }
     event speak "narration.Baby4_01"
     {
-      time 10.980000 21.725780
+      time 10.992291 21.454785
       param "narration.Baby4_01"
       fixedlength
       cctype "cc_master"
@@ -21,7 +21,7 @@ actor "narrator"
     }
     event speak "narration.Baby4_02"
     {
-      time 21.733332 32.502449
+      time 21.462337 33.231454
       param "narration.Baby4_02"
       fixedlength
       cctype "cc_master"
@@ -29,7 +29,7 @@ actor "narrator"
     }
     event speak "narration.Baby4_03"
     {
-      time 32.506664 45.454781
+      time 33.235669 46.123515
       param "narration.Baby4_03"
       fixedlength
       cctype "cc_master"
@@ -37,7 +37,7 @@ actor "narrator"
     }
     event speak "narration.Baby4_04"
     {
-      time 45.466663 64.260429
+      time 46.135397 64.935216
       param "narration.Baby4_04"
       fixedlength
       cctype "cc_master"

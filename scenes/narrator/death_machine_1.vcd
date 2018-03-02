@@ -5,7 +5,7 @@ actor "narrator"
   {
     event speak "narration.Death_Machine_1_00"
     {
-      time -0.000000 3.480907
+      time 0.000000 3.680431
       param "narration.Death_Machine_1_00"
       fixedlength
       cctype "cc_master"

@@ -5,7 +5,7 @@ actor "narrator"
   {
     event speak "narration.1c_Stayaway_00"
     {
-      time 0.006667 7.133538
+      time 0.006667 7.978957
       param "narration.1c_Stayaway_00"
       fixedlength
       cctype "cc_master"

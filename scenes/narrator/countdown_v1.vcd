@@ -5,7 +5,7 @@ actor "narrator"
   {
     event speak "narration.Countdown_00"
     {
-      time 0.006666 4.806666
+      time 0.006666 4.863333
       param "narration.Countdown_00"
       fixedlength
       cctype "cc_master"
@@ -13,7 +13,7 @@ actor "narrator"
     }
     event speak "narration.Countdown_01"
     {
-      time 4.800000 13.400001
+      time 4.856667 13.456668
       param "narration.Countdown_01"
       fixedlength
       cctype "cc_master"
@@ -21,7 +21,7 @@ actor "narrator"
     }
     event speak "narration.Countdown_02"
     {
-      time 13.400000 22.000000
+      time 13.456667 23.249569
       param "narration.Countdown_02"
       fixedlength
       cctype "cc_master"
@@ -29,7 +29,7 @@ actor "narrator"
     }
     event speak "narration.Countdown_03"
     {
-      time 22.000000 32.200001
+      time 23.249569 33.449570
       param "narration.Countdown_03"
       fixedlength
       cctype "cc_master"
@@ -37,7 +37,7 @@ actor "narrator"
     }
     event speak "narration.Countdown_04"
     {
-      time 32.200001 39.600002
+      time 33.449570 40.925829
       param "narration.Countdown_04"
       fixedlength
       cctype "cc_master"
@@ -45,7 +45,7 @@ actor "narrator"
     }
     event speak "narration.Countdown_05"
     {
-      time 39.599998 55.000000
+      time 40.925825 57.325827
       param "narration.Countdown_05"
       fixedlength
       cctype "cc_master"
@@ -53,7 +53,7 @@ actor "narrator"
     }
     event speak "narration.Countdown_06"
     {
-      time 55.000000 61.400002
+      time 57.325827 63.725829
       param "narration.Countdown_06"
       fixedlength
       cctype "cc_master"
@@ -61,7 +61,7 @@ actor "narrator"
     }
     event speak "narration.Countdown_07"
     {
-      time 61.400002 65.800003
+      time 63.725829 67.914128
       param "narration.Countdown_07"
       fixedlength
       cctype "cc_master"
@@ -69,7 +69,7 @@ actor "narrator"
     }
     event speak "narration.Countdown_08"
     {
-      time 65.800003 80.600006
+      time 67.914128 82.446985
       param "narration.Countdown_08"
       fixedlength
       cctype "cc_master"
@@ -77,7 +77,7 @@ actor "narrator"
     }
     event speak "narration.Countdown_09"
     {
-      time 80.599998 95.000000
+      time 82.446977 97.846979
       param "narration.Countdown_09"
       fixedlength
       cctype "cc_master"
@@ -85,7 +85,7 @@ actor "narrator"
     }
     event speak "narration.Countdown_10"
     {
-      time 95.000000 102.000000
+      time 97.846979 104.846979
       param "narration.Countdown_10"
       fixedlength
       cctype "cc_master"
@@ -93,7 +93,7 @@ actor "narrator"
     }
     event speak "narration.Countdown_11"
     {
-      time 102.000000 108.300003
+      time 104.846979 110.911355
       param "narration.Countdown_11"
       fixedlength
       cctype "cc_master"
@@ -101,7 +101,7 @@ actor "narrator"
     }
     event speak "narration.Countdown_12"
     {
-      time 108.300003 113.000000
+      time 110.911355 115.611352
       param "narration.Countdown_12"
       fixedlength
       cctype "cc_master"
@@ -109,7 +109,7 @@ actor "narrator"
     }
     event speak "narration.Countdown_13"
     {
-      time 113.000000 125.699997
+      time 115.611352 128.131035
       param "narration.Countdown_13"
       fixedlength
       cctype "cc_master"
@@ -117,7 +117,7 @@ actor "narrator"
     }
     event speak "narration.Countdown_14"
     {
-      time 125.699997 133.300003
+      time 128.131035 135.731041
       param "narration.Countdown_14"
       fixedlength
       cctype "cc_master"
@@ -125,7 +125,7 @@ actor "narrator"
     }
     event speak "narration.Countdown_15"
     {
-      time 133.300003 147.199997
+      time 135.731041 150.292061
       param "narration.Countdown_15"
       fixedlength
       cctype "cc_master"
@@ -133,7 +133,7 @@ actor "narrator"
     }
     event speak "narration.Countdown_16"
     {
-      time 147.199997 151.699997
+      time 150.292061 155.792061
       param "narration.Countdown_16"
       fixedlength
       cctype "cc_master"
@@ -141,7 +141,7 @@ actor "narrator"
     }
     event speak "narration.Countdown_17"
     {
-      time 151.699997 157.300003
+      time 155.792061 161.710360
       param "narration.Countdown_17"
       fixedlength
       cctype "cc_master"
@@ -149,7 +149,7 @@ actor "narrator"
     }
     event speak "narration.Countdown_18"
     {
-      time 157.300003 162.100006
+      time 161.710360 167.510363
       param "narration.Countdown_18"
       fixedlength
       cctype "cc_master"
@@ -157,7 +157,7 @@ actor "narrator"
     }
     event speak "narration.Countdown_19"
     {
-      time 162.100006 167.200012
+      time 167.510363 173.610369
       param "narration.Countdown_19"
       fixedlength
       cctype "cc_master"
@@ -165,7 +165,7 @@ actor "narrator"
     }
     event speak "narration.Countdown_20"
     {
-      time 167.199997 169.699997
+      time 173.610354 176.110354
       param "narration.Countdown_20"
       fixedlength
       cctype "cc_master"
@@ -173,7 +173,7 @@ actor "narrator"
     }
     event speak "narration.Countdown_21"
     {
-      time 169.699997 180.000000
+      time 176.110354 186.440399
       param "narration.Countdown_21"
       fixedlength
       cctype "cc_master"
@@ -181,7 +181,7 @@ actor "narrator"
     }
     event speak "narration.Countdown_22"
     {
-      time 180.000000 187.500000
+      time 186.440399 194.156748
       param "narration.Countdown_22"
       fixedlength
       cctype "cc_master"
@@ -189,7 +189,7 @@ actor "narrator"
     }
     event speak "narration.Countdown_23"
     {
-      time 187.500000 193.899994
+      time 194.156748 200.925569
       param "narration.Countdown_23"
       fixedlength
       cctype "cc_master"
@@ -197,7 +197,7 @@ actor "narrator"
     }
     event speak "narration.Countdown_24"
     {
-      time 193.899994 197.299988
+      time 200.925569 204.372803
       param "narration.Countdown_24"
       fixedlength
       cctype "cc_master"
@@ -205,7 +205,7 @@ actor "narrator"
     }
     event speak "narration.Countdown_25"
     {
-      time 197.300003 207.699997
+      time 204.372818 214.831367
       param "narration.Countdown_25"
       fixedlength
       cctype "cc_master"
@@ -213,7 +213,7 @@ actor "narrator"
     }
     event speak "narration.Countdown_26"
     {
-      time 207.699997 214.000000
+      time 214.831367 221.131370
       param "narration.Countdown_26"
       fixedlength
       cctype "cc_master"
@@ -221,7 +221,7 @@ actor "narrator"
     }
     event speak "narration.Countdown_27"
     {
-      time 214.000000 222.800003
+      time 221.131370 229.822481
       param "narration.Countdown_27"
       fixedlength
       cctype "cc_master"
@@ -229,7 +229,7 @@ actor "narrator"
     }
     event speak "narration.Countdown_28"
     {
-      time 222.800003 233.400009
+      time 229.822481 240.431823
       param "narration.Countdown_28"
       fixedlength
       cctype "cc_master"
@@ -237,7 +237,7 @@ actor "narrator"
     }
     event speak "narration.Countdown_29"
     {
-      time 233.399994 239.599991
+      time 240.431808 246.631805
       param "narration.Countdown_29"
       fixedlength
       cctype "cc_master"
@@ -245,7 +245,7 @@ actor "narrator"
     }
     event speak "narration.Countdown_30"
     {
-      time 239.600006 243.700012
+      time 246.631820 251.731826
       param "narration.Countdown_30"
       fixedlength
       cctype "cc_master"
@@ -253,7 +253,7 @@ actor "narrator"
     }
     event speak "narration.Countdown_31"
     {
-      time 243.699997 248.300003
+      time 251.731811 256.331817
       param "narration.Countdown_31"
       fixedlength
       cctype "cc_master"
@@ -261,7 +261,7 @@ actor "narrator"
     }
     event speak "narration.Countdown_32"
     {
-      time 248.300003 255.699997
+      time 256.331817 263.666466
       param "narration.Countdown_32"
       fixedlength
       cctype "cc_master"
@@ -269,7 +269,7 @@ actor "narrator"
     }
     event speak "narration.Countdown_33"
     {
-      time 255.699997 262.899994
+      time 263.666466 271.177940
       param "narration.Countdown_33"
       fixedlength
       cctype "cc_master"
@@ -277,7 +277,7 @@ actor "narrator"
     }
     event speak "narration.Countdown_34"
     {
-      time 262.899994 257.600006
+      time 271.177940 275.342430
       param "narration.Countdown_34"
       fixedlength
       cctype "cc_master"
@@ -285,7 +285,7 @@ actor "narrator"
     }
     event speak "narration.Countdown_35"
     {
-      time 257.600006 267.381653
+      time 275.342430 283.124077
       param "narration.Countdown_35"
       fixedlength
       cctype "cc_master"

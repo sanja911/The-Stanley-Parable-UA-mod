@@ -5,7 +5,7 @@ actor "narrator"
   {
     event speak "narration.Apartment_7_00"
     {
-      time 0.013333 9.869637
+      time 0.013333 9.218299
       param "narration.Apartment_7_00"
       fixedlength
       cctype "cc_master"
@@ -13,7 +13,7 @@ actor "narrator"
     }
     event speak "narration.Apartment_7_01"
     {
-      time 9.860000 20.299795
+      time 9.208662 19.575125
       param "narration.Apartment_7_01"
       fixedlength
       cctype "cc_master"

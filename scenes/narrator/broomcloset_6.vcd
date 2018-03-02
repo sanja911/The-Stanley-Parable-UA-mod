@@ -5,7 +5,7 @@ actor "narrator"
   {
     event speak "narration.Broomcloset_6_00"
     {
-      time 0.013333 7.412244
+      time 0.013333 7.727415
       param "narration.Broomcloset_6_00"
       fixedlength
       cctype "cc_master"
@@ -13,7 +13,7 @@ actor "narrator"
     }
     event speak "narration.Broomcloset_6_01"
     {
-      time 7.413333 18.177528
+      time 7.728504 18.701633
       param "narration.Broomcloset_6_01"
       fixedlength
       cctype "cc_master"

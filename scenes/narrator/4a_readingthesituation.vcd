@@ -5,7 +5,7 @@ actor "narrator"
   {
     event speak "narration.4a_readingthesituation_00"
     {
-      time 0.013333 8.202426
+      time 0.013333 8.734716
       param "narration.4a_readingthesituation_00"
       fixedlength
       cctype "cc_master"
@@ -13,7 +13,7 @@ actor "narrator"
     }
     event speak "narration.4a_readingthesituation_01"
     {
-      time 8.193335 15.284309
+      time 8.725625 15.860092
       param "narration.4a_readingthesituation_01"
       fixedlength
       cctype "cc_master"

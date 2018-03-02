@@ -5,7 +5,7 @@ actor "narrator"
   {
     event speak "narration.Broomcloset_7_00"
     {
-      time 0.006667 6.096803
+      time 0.006667 6.685533
       param "narration.Broomcloset_7_00"
       fixedlength
       cctype "cc_master"
@@ -13,7 +13,7 @@ actor "narrator"
     }
     event speak "narration.Broomcloset_7_01"
     {
-      time 6.100000 18.042994
+      time 6.688730 18.631724
       param "narration.Broomcloset_7_01"
       fixedlength
       cctype "cc_master"
@@ -21,7 +21,7 @@ actor "narrator"
     }
     event speak "narration.Broomcloset_7_02"
     {
-      time 18.046667 28.130999
+      time 18.635397 28.781519
       param "narration.Broomcloset_7_02"
       fixedlength
       cctype "cc_master"
@@ -29,7 +29,7 @@ actor "narrator"
     }
     event speak "narration.Broomcloset_7_03"
     {
-      time 28.146666 34.078617
+      time 28.797186 34.729137
       param "narration.Broomcloset_7_03"
       fixedlength
       cctype "cc_master"
@@ -37,7 +37,7 @@ actor "narrator"
     }
     event speak "narration.Broomcloset_7_04"
     {
-      time 34.080002 45.243427
+      time 34.730522 46.582064
       param "narration.Broomcloset_7_04"
       fixedlength
       cctype "cc_master"
@@ -45,7 +45,7 @@ actor "narrator"
     }
     event speak "narration.Broomcloset_7_05"
     {
-      time 45.253338 51.976219
+      time 46.591975 53.314856
       param "narration.Broomcloset_7_05"
       fixedlength
       cctype "cc_master"
@@ -53,7 +53,7 @@ actor "narrator"
     }
     event speak "narration.Broomcloset_7_06"
     {
-      time 51.980000 62.877937
+      time 53.318637 63.353376
       param "narration.Broomcloset_7_06"
       fixedlength
       cctype "cc_master"
@@ -61,7 +61,7 @@ actor "narrator"
     }
     event speak "narration.Broomcloset_7_07"
     {
-      time 62.886662 67.214073
+      time 63.362101 69.689512
       param "narration.Broomcloset_7_07"
       fixedlength
       cctype "cc_master"
@@ -69,7 +69,7 @@ actor "narrator"
     }
     event speak "narration.Broomcloset_7_08"
     {
-      time 67.213326 70.495682
+      time 69.688765 73.260760
       param "narration.Broomcloset_7_08"
       fixedlength
       cctype "cc_master"

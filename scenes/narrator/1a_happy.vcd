@@ -5,7 +5,7 @@ actor "narrator"
   {
     event speak "narration.1a_Happy_00"
     {
-      time 0.006667 4.760001
+      time 0.006667 4.934921
       param "narration.1a_Happy_00"
       fixedlength
       cctype "cc_master"
@@ -13,7 +13,7 @@ actor "narrator"
     }
     event speak "narration.1a_Happy_01"
     {
-      time 4.766667 16.841633
+      time 4.941587 17.757596
       param "narration.1a_Happy_01"
       fixedlength
       cctype "cc_master"

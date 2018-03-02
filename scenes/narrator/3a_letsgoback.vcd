@@ -5,7 +5,7 @@ actor "narrator"
   {
     event speak "narration.3a_letsgoback_00"
     {
-      time 0.013333 6.960476
+      time 0.013333 6.129410
       param "narration.3a_letsgoback_00"
       fixedlength
       cctype "cc_master"

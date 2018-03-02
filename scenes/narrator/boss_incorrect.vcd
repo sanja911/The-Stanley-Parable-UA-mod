@@ -5,7 +5,7 @@ actor "narrator"
   {
     event speak "narration.Boss_incorrect_00"
     {
-      time 0.000000 9.631723
+      time 0.000000 9.888027
       param "narration.Boss_incorrect_00"
       fixedlength
       cctype "cc_master"
@@ -13,7 +13,7 @@ actor "narrator"
     }
     event speak "narration.Boss_incorrect_01"
     {
-      time 9.626667 17.773788
+      time 9.882971 19.030092
       param "narration.Boss_incorrect_01"
       fixedlength
       cctype "cc_master"

@@ -21,7 +21,7 @@ actor "narrator"
     }
     event speak "narration.Con1-3_02"
     {
-      time 15.620001 21.293266
+      time 15.620001 21.264264
       param "narration.Con1-3_02"
       fixedlength
       cctype "cc_master"
@@ -29,7 +29,7 @@ actor "narrator"
     }
     event speak "narration.Con1-3_03"
     {
-      time 21.300003 28.903881
+      time 21.271001 28.798620
       param "narration.Con1-3_03"
       fixedlength
       cctype "cc_master"

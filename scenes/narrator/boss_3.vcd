@@ -5,7 +5,7 @@ actor "narrator"
   {
     event speak "narration.Boss_3_00"
     {
-      time 0.000000 6.794581
+      time 0.000000 7.794581
       param "narration.Boss_3_00"
       fixedlength
       cctype "cc_master"
@@ -13,7 +13,7 @@ actor "narrator"
     }
     event speak "narration.Boss_3_01"
     {
-      time 6.793333 11.435692
+      time 7.793333 12.494149
       param "narration.Boss_3_01"
       fixedlength
       cctype "cc_master"
@@ -21,7 +21,7 @@ actor "narrator"
     }
     event speak "narration.Boss_3_02"
     {
-      time 11.433332 22.620747
+      time 12.491789 23.959431
       param "narration.Boss_3_02"
       fixedlength
       cctype "cc_master"
@@ -29,7 +29,7 @@ actor "narrator"
     }
     event speak "narration.Boss_3_03"
     {
-      time 22.620001 29.110704
+      time 23.958685 30.449388
       param "narration.Boss_3_03"
       fixedlength
       cctype "cc_master"
@@ -37,7 +37,7 @@ actor "narrator"
     }
     event speak "narration.Boss_3_04"
     {
-      time 29.100002 40.436646
+      time 30.438686 42.775330
       param "narration.Boss_3_04"
       fixedlength
       cctype "cc_master"
@@ -45,7 +45,7 @@ actor "narrator"
     }
     event speak "narration.Boss_3_05"
     {
-      time 40.433334 43.685875
+      time 42.772018 46.412540
       param "narration.Boss_3_05"
       fixedlength
       cctype "cc_master"

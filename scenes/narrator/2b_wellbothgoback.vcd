@@ -5,7 +5,7 @@ actor "narrator"
   {
     event speak "narration.2b_wellbothgoback_00"
     {
-      time 0.013334 5.205488
+      time 0.013334 6.205488
       param "narration.2b_wellbothgoback_00"
       fixedlength
       cctype "cc_master"
@@ -13,7 +13,7 @@ actor "narrator"
     }
     event speak "narration.2b_wellbothgoback_01"
     {
-      time 6.206667 12.693810
+      time 6.206667 12.608549
       param "narration.2b_wellbothgoback_01"
       fixedlength
       cctype "cc_master"

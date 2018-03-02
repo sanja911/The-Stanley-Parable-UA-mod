@@ -5,7 +5,7 @@ actor "narrator"
   {
     event speak "narration.4b_doyouwanttostayalive_00"
     {
-      time 0.006667 4.831043
+      time 0.006667 4.662721
       param "narration.4b_doyouwanttostayalive_00"
       fixedlength
       cctype "cc_master"

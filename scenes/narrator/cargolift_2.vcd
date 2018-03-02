@@ -5,7 +5,7 @@ actor "narrator"
   {
     event speak "narration.CargoLift_2_00"
     {
-      time 0.006667 3.901837
+      time 0.006667 4.004445
       param "narration.CargoLift_2_00"
       fixedlength
       cctype "cc_master"
@@ -13,7 +13,7 @@ actor "narrator"
     }
     event speak "narration.CargoLift_2_01"
     {
-      time 3.906666 14.938797
+      time 4.009274 16.041405
       param "narration.CargoLift_2_01"
       fixedlength
       cctype "cc_master"
@@ -21,7 +21,7 @@ actor "narrator"
     }
     event speak "narration.CargoLift_2_02"
     {
-      time 14.940001 25.951725
+      time 16.042609 25.054333
       param "narration.CargoLift_2_02"
       fixedlength
       cctype "cc_master"
@@ -29,7 +29,7 @@ actor "narrator"
     }
     event speak "narration.CargoLift_2_03"
     {
-      time 25.953335 30.997053
+      time 25.055943 29.173653
       param "narration.CargoLift_2_03"
       fixedlength
       cctype "cc_master"
